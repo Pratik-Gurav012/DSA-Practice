@@ -1,12 +1,14 @@
 # DSA Practice in Java
 
-This repository contains my solutions to Data Structures and Algorithms problems from LeetCode and other coding platforms.
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems solved in **Java** from **LeetCode**. It serves as my coding journal to strengthen problem-solving skills, master common interview patterns, and prepare for software engineering interviews.
 
 ## Language
 - Java
 
 ## Platform
 - LeetCode
+
+---
 
 ## Topics Covered
 
@@ -17,9 +19,15 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ### HashMap
 - LC001 - Two Sum
 - LC013 - Roman to Integer
+- LC169 - Majority Element
+- LC242 - Valid Anagram
+- LC387 - First Unique Character in a String
 
 ### Strings
-- Coming Soon
+- LC003 - Longest Substring Without Repeating Characters
+- LC014 - Longest Common Prefix
+- LC125 - Valid Palindrome
+- LC344 - Reverse String
 
 ### Linked Lists
 - Coming Soon
@@ -34,11 +42,11 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Statistics
 
-- Total Problems Solved: 4
+- **Total Problems Solved:** 10
 
 ---
 
-## Concepts Learned
+## Concepts & Patterns Learned
 
 ### Arrays
 - Prefix Sum
@@ -46,9 +54,26 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Array Traversal
 
 ### HashMap
-- Complement Search In Hashmap
+- Frequency Counting
+- Complement Search
 - Key-Value Mapping
 - Constant Time Lookup
+
+### Strings
+- Lexicographical Comparison
+- Character Array Manipulation
+
+### Two Pointers
+- Reverse String
+- Valid Palindrome
+- Left & Right Pointer Technique (Two Pointer)
+- In-place Swapping
+
+### Sliding Window
+- LC003 - Longest Substring Without Repeating Characters
+- Dynamic Window Expansion & Shrinking
+- Maintaining a Valid Window
+- HashSet for Fast Lookup
 
 ---
 
@@ -63,3 +88,30 @@ src
 ├── trees
 └── graphs
 ```
+
+---
+
+## Learning Goals
+
+- Solve DSA problems consistently.
+- Master common DSA patterns.
+- Write clean and optimized Java solutions.
+- Improve problem-solving and analytical thinking.
+- Build a strong GitHub portfolio for software engineering interviews.
+
+---
+
+## Progress
+
+- ✅ Arrays
+- ✅ HashMap
+- ✅ Strings
+- ⏳ Linked Lists
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Binary Search
+- ⏳ Trees
+- ⏳ Graphs
+- ⏳ Heap
+- ⏳ Greedy
+- ⏳ Dynamic Programming
