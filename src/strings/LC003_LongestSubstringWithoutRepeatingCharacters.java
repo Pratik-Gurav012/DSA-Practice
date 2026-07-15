@@ -25,8 +25,9 @@ public class LC003_LongestSubstringWithoutRepeatingCharacters {
         int longestSubstring = 0;
 
         while (right < s.length()){
-            if (!chSet.contains(s.charAt(right))){
-                chSet.add(s.charAt(right));
+            char currentChar = s.charAt(right);
+            if (!chSet.contains(currentChar)){
+                chSet.add(currentChar);
                 longestSubstring = Math.max(longestSubstring, chSet.size());
                 right++;
             } else {

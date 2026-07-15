@@ -13,8 +13,19 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Topics Covered
 
 ### Arrays
+- LC011 - Container With Most Water
+- LC053 - Maximum Subarray
+- LC121 - Best Time to Buy and Sell Stock
+- LC122 - Best Time to Buy and Sell Stock II
 - LC1480 - Running Sum of 1D Array
+- LC219 - Contains Duplicate II
+- LC238 - Product of Array Except Self
+- LC283 - Move Zeroes
 - LC2974 - Minimum Number Game
+- LC643 - Maximum Average Subarray I
+- LC724 - Find Pivot Index
+- LC875 - Koko Eating Bananas
+- LC1011 - Capacity To Ship Packages Within D Days
 
 ### HashMap
 - LC001 - Two Sum
@@ -26,8 +37,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ### Strings
 - LC003 - Longest Substring Without Repeating Characters
 - LC014 - Longest Common Prefix
+- LC020 - Valid Parentheses
 - LC125 - Valid Palindrome
 - LC344 - Reverse String
+- LC424 - Longest Repeating Character Replacement
+- LC438 - Find All Anagrams in a String
+- LC567 - Permutation in String
 
 ### Linked Lists
 - Coming Soon
@@ -42,7 +57,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 ## Statistics
 
-- **Total Problems Solved:** 10
+- **Total Problems Solved in Repository:** 24
+- **Total LeetCode Problems Solved Overall:** 50+
 
 ---
 
@@ -50,8 +66,14 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 ### Arrays
 - Prefix Sum
+- Prefix Product
+- Suffix Product
+- Running Sum
+- Running Minimum
 - Sorting
 - Array Traversal
+- Single Pass Optimization
+- Precomputation
 
 ### HashMap
 - Frequency Counting
@@ -62,18 +84,52 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ### Strings
 - Lexicographical Comparison
 - Character Array Manipulation
+- StringBuilder
 
 ### Two Pointers
 - Reverse String
 - Valid Palindrome
-- Left & Right Pointer Technique (Two Pointer)
+- Container With Most Water
+- Move Zeroes
+- Left & Right Pointer Technique
 - In-place Swapping
+- Greedy Pointer Movement
 
 ### Sliding Window
-- LC003 - Longest Substring Without Repeating Characters
-- Dynamic Window Expansion & Shrinking
+- Longest Substring Without Repeating Characters
+- Longest Repeating Character Replacement
+- Find All Anagrams in a String
+- Permutation in String
+- Maximum Average Subarray I
+- Dynamic Window Expansion
+- Dynamic Window Shrinking
+- Fixed Size Sliding Window
+- Variable Size Sliding Window
+- Frequency Counting
 - Maintaining a Valid Window
+- Window Validation
 - HashSet for Fast Lookup
+
+### Greedy
+- Best Time to Buy and Sell Stock
+- Best Time to Buy and Sell Stock II
+- Running Minimum
+- Profit Accumulation
+- Local Optimal Choice
+- Kadane's Algorithm
+
+### Binary Search
+- Binary Search on Answer
+- Monotonic Predicate
+- Search Space Reduction
+- Simulation-Based Validation
+
+### Stack
+- LIFO (Last In, First Out)
+- Matching Pairs
+- Nested Structures
+- Push & Pop Operations
+- Bracket Validation
 
 ---
 
@@ -106,12 +162,15 @@ src
 - ✅ Arrays
 - ✅ HashMap
 - ✅ Strings
+- ✅ Two Pointers
+- ✅ Sliding Window
+- ✅ Greedy
+- ✅ Binary Search on Answer
+- ✅ Stack
 - ⏳ Linked Lists
-- ⏳ Stack
 - ⏳ Queue
-- ⏳ Binary Search
+- ⏳ Heap
 - ⏳ Trees
 - ⏳ Graphs
-- ⏳ Heap
-- ⏳ Greedy
+- ⏳ Backtracking
 - ⏳ Dynamic Programming
